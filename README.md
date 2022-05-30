@@ -13,13 +13,15 @@
 
 - 🎯 I’m currently building Products with [Laravel](https://laravel.com/)
 
-- 🌱 I’m currently learning  [NestJs](https://nestjs.com/)
+- 🌱 I’m currently learning  [NestJs](https://nestjs.com/) and [SwiftUI] (https://developer.apple.com/xcode/swiftui)
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:topeolotu75@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olotu-tope-80032216a/)
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://php.net/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="50" height="50"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> </p>
+<p align="center"><a href="https://php.net/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="50" height="50"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://developer.apple.com/swift" > <img src="https://developer.apple.com/swift/images/swift-og.png" alt="javascript" width="50" height="50"/> </a>
+  </p>
   
 <h3 align="center">IDEs/Editor</h3>
 <p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/phpstorm/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" width="40" height="40"/> </a> </p>
