@@ -11,9 +11,9 @@
 
 <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" alt="xd" align="right" width="375" height="240" />
 
-- 🎯 I’m currently building Products with [Laravel](https://laravel.com/)
+- 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [NestJs](https://nestjs.com/)
 
-- 🌱 I’m currently learning  [NestJs](https://nestjs.com/) and [SwiftUI](https://developer.apple.com/xcode/swiftui)
+- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui)
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:topeolotu75@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olotu-tope-80032216a/)
 
