@@ -1,7 +1,7 @@
 <div align="center"><h2>Hey! Nice to see you<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></div>
 
 <h3 align="center">Welcome to my profile</h3>
-<h3 align="center">I'm Tope, a Backend Engineer from Nigeria</h3>
+<h3 align="center">I'm Tope, a Backend Engineer from Lagos, Nigeria</h3>
 
 <!-- ## Profile Stats
 
