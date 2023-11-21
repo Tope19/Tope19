@@ -35,7 +35,7 @@
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<p align="center"><a href="https://laravel.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://symfony.com" > <img src="https://symfony.com/images/opengraph/symfony.png" alt="symfony" width="40" height="40"/> </a> </p>
+<p align="center"><a href="https://laravel.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://symfony.com" > <img  src="https://symfony.com/images/opengraph/symfony.png" alt="symfony" width="100" height="60"/> </a> </p>
 
 <h3 align="center">Database & Testing</h3>
 <p align="center">  <a href="https://www.postgresql.org/" > <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" > <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
