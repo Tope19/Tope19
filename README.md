@@ -11,7 +11,7 @@
 
 <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" alt="xd" align="right" width="375" height="240" />
 
-- 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [NestJs](https://nestjs.com/)
+- 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [Symfony](https://symfony.com/)
 
 - 🌱 I’m currently learning [GO](https://go.dev/)
 
@@ -19,7 +19,7 @@
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://php.net/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="50" height="50"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+<p align="center"><a href="https://php.net/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="50" height="50"/>
   <a href="https://go.dev/" > <img src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" alt="javascript" width="100" height="50"/> </a>
   </p>
   
@@ -35,7 +35,7 @@
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<p align="center"><a href="https://laravel.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com/" > <img src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" alt="nestjs" width="40" height="40"/> </a> </p>
+<p align="center"><a href="https://laravel.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://symfony.com" > <img src="https://symfony.com/images/opengraph/symfony.png" alt="symfony" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Database & Testing</h3>
 <p align="center">  <a href="https://www.postgresql.org/" > <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" > <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
