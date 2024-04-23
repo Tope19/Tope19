@@ -13,35 +13,9 @@
 
 - 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [Symfony](https://symfony.com/)
 
-- 🌱 I’m currently learning [GO](https://go.dev/)
+- 🌱 I’m currently learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for IOS Mobile development.
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:topeolotu75@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olotu-tope-80032216a/)
-
-<table><tr><td valign="top" width="33%">
-<h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://php.net/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="50" height="50"/>
-  <a href="https://go.dev/" > <img src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" alt="javascript" width="100" height="50"/> </a>
-  </p>
-  
-<h3 align="center">IDEs/Editor</h3>
-<p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/phpstorm/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" width="40" height="40"/> </a> </p>
-  
-</td><td valign="top" width="33%">
-<h3 align="center">Frontend Development</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> </p>
-  
-<h3 align="center">Other</h3>
-<p align="center"> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-</td><td valign="top" width="33%">
-<h3 align="center">Backend Development</h3>
-<p align="center"><a href="https://laravel.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://symfony.com" > <img  src="https://symfony.com/images/opengraph/symfony.png" alt="symfony" width="100" height="60"/> </a> </p>
-
-<h3 align="center">Database & Testing</h3>
-<p align="center">  <a href="https://www.postgresql.org/" > <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" > <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-  
-</td></tr></table>
-
 
 <h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
