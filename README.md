@@ -11,7 +11,7 @@
 
 <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" alt="xd" align="right" width="375" height="240" />
 
-- 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [Symfony](https://symfony.com/)
+- 🎯 I’m currently building Products with [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) and [Go](https://go.dev/)
 
 - 🌱 I’m currently learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for IOS Mobile development.
 
