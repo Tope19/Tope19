@@ -13,7 +13,7 @@
 
 - 🎯 I’m currently building Products with [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) and [Go](https://go.dev/)
 
-- 🌱 I’m currently learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for IOS Mobile development.
+- 🌱 I’m currently learning [Java](https://www.java.com/) and [Java SpringBoot](https://spring.io/projects/spring-boot).
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:topeolotu75@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olotu-tope-80032216a/)
 
