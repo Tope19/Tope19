@@ -1,7 +1,7 @@
 <div align="center"><h2>Hey! Nice to see you<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></div>
 
 <h3 align="center">Welcome to my profile</h3>
-<h3 align="center">I'm Tope, a Backend Engineer from Lagos, Nigeria</h3>
+<h3 align="center">I'm Tope, a Senior Backend Engineer from Lagos, Nigeria</h3>
 
 <!-- ## Profile Stats
 
@@ -11,9 +11,9 @@
 
 <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" alt="xd" align="right" width="375" height="240" />
 
-- 🎯 I’m currently building Products with [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) and [Go](https://go.dev/)
+- 🎯 I’m currently building Products with [Laravel](https://laravel.com/) and [Symfony](https://symfony.com/)
 
-- 🌱 I’m currently learning [Java](https://www.java.com/) and [Java SpringBoot](https://spring.io/projects/spring-boot).
+- 🌱 I’m currently learning [Python](https://www.python.org/) and [Swift](https://swift.org/).
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:topeolotu75@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olotu-tope-80032216a/)
 
